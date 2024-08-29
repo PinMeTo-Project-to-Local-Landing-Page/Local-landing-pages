@@ -28,7 +28,7 @@ This project aims to develop a scalable solution for generating bulk local landi
 
 ## Getting Started
 
-### Prerequisites
+### :hammer_and_wrench: Prerequisites
 
 - [List any software or tools required]
 - [Specify minimum system requirements]
