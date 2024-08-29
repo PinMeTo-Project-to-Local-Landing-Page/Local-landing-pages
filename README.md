@@ -1,5 +1,8 @@
 # Bulk Local Landing Page Generation Solution
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+
 ## Overview
 
 This project aims to develop a scalable solution for generating bulk local landing pages for multi-location businesses. The primary goal is to enhance local search visibility, improve user experience, and streamline content management across all locations.
